@@ -18,7 +18,8 @@ and print it in a 2D style with taken number of rows and columns. At last, it wi
 print the diagram again.
 I shall mention that the `Young-Diagram.py` file contains all the codes and funstions needed to implement the
 Young diagram and the `Young-Diagram-Tester.py` file is a tester file for that module.
-
+# Resources
+_Introduction To Algorithms_, 3rd edition: Chapter6, Heapsort: Problem 6-3
 
 
 	
